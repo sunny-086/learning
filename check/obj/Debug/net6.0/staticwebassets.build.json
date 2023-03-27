@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mkhhBJeY0mOkMMbchL3nOLDV8jzVB3FYuGP2Fs/7n8g=",
+  "Source": "check",
+  "BasePath": "_content/check",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
